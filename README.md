@@ -1,2 +1,1 @@
 # Practice-Blogging-Platform
-Vue
